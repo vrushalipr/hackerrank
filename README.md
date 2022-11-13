@@ -1,1 +1,1 @@
-Ptyhon Hackerrank solutions
+Python Hackerrank solutions
