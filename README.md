@@ -1,1 +1,1 @@
-# hackerrank
+Ptyhon Hackerrank solutions
